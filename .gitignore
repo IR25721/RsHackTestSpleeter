@@ -5,7 +5,6 @@ venv/
 uploads/
 output-python/
 
-core/
 pretrained_models/
 
 .next/
