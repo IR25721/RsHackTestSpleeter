@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/
+output-python/
+
+core/
+pretrained_models/
+
+.next/
+node_modules/
+.DS_Store
+*.log
